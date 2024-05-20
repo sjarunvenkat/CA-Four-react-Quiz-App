@@ -12,7 +12,6 @@ body {
   padding: 100px;
 }
 
-/* Dark/Light Mode */
 .dark-mode {
   background-color: #5e5c5c;
   color: #fff;
@@ -23,7 +22,6 @@ body {
   color: #333;
 }
 
-/* Question Box */
 .question-box {
   background-color: #d5cfd0;
   padding: 20px;
@@ -98,7 +96,6 @@ body {
   background-color: #888;
 }
 
-/* Result */
 .result {
   background-color: #f5f5f5;
   padding: 20px;
@@ -112,7 +109,6 @@ body {
   color: #fff;
 }
 
-/* Highlight Buttons */
 .highlight-buttons {
   display: flex;
   justify-content: center;
@@ -133,7 +129,6 @@ body {
   border: 1px solid black;
 }
 
-/* result Buttons */
 .result button {
   margin-left: 10px;
   padding: 10px 10px;
